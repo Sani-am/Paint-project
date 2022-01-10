@@ -1,0 +1,15 @@
+#myCanvas{
+border: 2px rgb(44, 44, 44) outset;
+background-color: white;
+
+}
+
+#clear{
+background-color: rgb(221, 193, 221);
+height: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: black;
+
+
+}
+
